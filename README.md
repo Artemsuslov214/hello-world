@@ -1,2 +1,3 @@
 # hello-world
-Первая задача в гитхаб
+It is the first task in GitHub
+I dont know any language of programming
